@@ -1,0 +1,222 @@
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.exe
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.deps.json
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.runtimeconfig.json
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.AssemblyReference.cache
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfoInputs.cache
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfo.cs
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.CoreCompileInputs.cache
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.CopyComplete
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\refint\TESTLivINParis.dll
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.genruntimeconfig.cache
+C:\Users\karad\source\repos\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\ref\TESTLivINParis.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.AssemblyReference.cache
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfoInputs.cache
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfo.cs
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.CoreCompileInputs.cache
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\refint\TESTLivINParis.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.exe
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.deps.json
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.runtimeconfig.json
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.CopyComplete
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.genruntimeconfig.cache
+C:\Users\karad\OneDrive\Bureau\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\ref\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.exe
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.deps.json
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.runtimeconfig.json
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.AssemblyReference.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfoInputs.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfo.cs
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.CoreCompileInputs.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivI.EB596123.Up2Date
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\refint\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.genruntimeconfig.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\TESTLivINParis\TESTLivINParis\obj\Debug\net8.0\ref\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.exe
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.deps.json
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.runtimeconfig.json
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.AssemblyReference.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfoInputs.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfo.cs
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.CoreCompileInputs.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivI.EB596123.Up2Date
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\refint\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.genruntimeconfig.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\LivIn_Paris_Rendu2_LeonardOzanTimothe\TESTLivINParis\obj\Debug\net8.0\ref\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.exe
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.deps.json
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.runtimeconfig.json
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.AssemblyReference.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfoInputs.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.AssemblyInfo.cs
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.csproj.CoreCompileInputs.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivI.EB596123.Up2Date
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\refint\TESTLivINParis.dll
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.pdb
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\TESTLivINParis.genruntimeconfig.cache
+C:\Users\inufy\Downloads\TESTLivINParis (2)\BACKUP\TESTLivINParis\obj\Debug\net8.0\ref\TESTLivINParis.dll

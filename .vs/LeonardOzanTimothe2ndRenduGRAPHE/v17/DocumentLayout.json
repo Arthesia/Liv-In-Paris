@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|c:\\users\\inufy\\desktop\\livinparis\\rendu 30 mars\\leonardozantimothe2ndrendugraphe\\visualiseurgraphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|solutionrelative:visualiseurgraphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|c:\\users\\inufy\\desktop\\livinparis\\rendu 30 mars\\leonardozantimothe2ndrendugraphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|c:\\users\\inufy\\desktop\\livinparis\\rendu 30 mars\\leonardozantimothe2ndrendugraphe\\noeud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|solutionrelative:noeud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|c:\\users\\inufy\\desktop\\livinparis\\rendu 30 mars\\leonardozantimothe2ndrendugraphe\\graphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|solutionrelative:graphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|c:\\users\\inufy\\desktop\\livinparis\\rendu 30 mars\\leonardozantimothe2ndrendugraphe\\lien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45364E3B-F239-402D-A6B7-B29D12FBAE54}|LeonardOzanTimothe2ndRenduGRAPHE.csproj|solutionrelative:lien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lien.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\Lien.cs",
+              "RelativeDocumentMoniker": "Lien.cs",
+              "ToolTip": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\Lien.cs",
+              "RelativeToolTip": "Lien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:55:36.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisualiseurGraphe.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\VisualiseurGraphe.cs",
+              "RelativeDocumentMoniker": "VisualiseurGraphe.cs",
+              "ToolTip": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\VisualiseurGraphe.cs",
+              "RelativeToolTip": "VisualiseurGraphe.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAgwAkBAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:23:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graphe.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\Graphe.cs",
+              "RelativeDocumentMoniker": "Graphe.cs",
+              "ToolTip": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\Graphe.cs",
+              "RelativeToolTip": "Graphe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:55:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Noeud.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\Noeud.cs",
+              "RelativeDocumentMoniker": "Noeud.cs",
+              "ToolTip": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\Noeud.cs",
+              "RelativeToolTip": "Noeud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:55:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:54:24.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

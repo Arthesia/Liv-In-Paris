@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1FnOoMhtEc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inufy\\Desktop\\LivInParis\\Rendu 30 Mars\\LeonardOzanTimothe2ndRenduGRAPHE\\LeonardOzanTimothe2ndRenduGRAPHE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inufy\\.nuget\\packages\\microsoft.msagl\\1.1.6\\microsoft.msagl.1.1.6.nupkg.sha512",
+    "C:\\Users\\inufy\\.nuget\\packages\\microsoft.msagl.drawing\\1.1.6\\microsoft.msagl.drawing.1.1.6.nupkg.sha512",
+    "C:\\Users\\inufy\\.nuget\\packages\\microsoft.msagl.graphviewergdi\\1.1.7\\microsoft.msagl.graphviewergdi.1.1.7.nupkg.sha512",
+    "C:\\Users\\inufy\\.nuget\\packages\\skiasharp\\3.116.1\\skiasharp.3.116.1.nupkg.sha512",
+    "C:\\Users\\inufy\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.116.1\\skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "C:\\Users\\inufy\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.116.1\\skiasharp.nativeassets.win32.3.116.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Msagl.GraphViewerGDI 1.1.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Msagl.GraphViewerGDI",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

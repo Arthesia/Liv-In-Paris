@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4516AE39-4C85-442F-8039-24ED45F5A647}|TestUnitaire\\TestUnitaire.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testunitaire\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4516AE39-4C85-442F-8039-24ED45F5A647}|TestUnitaire\\TestUnitaire.csproj|solutionrelative:testunitaire\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testlivinparis\\statistiques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|solutionrelative:testlivinparis\\statistiques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testlivinparis\\graphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|solutionrelative:testlivinparis\\graphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testlivinparis\\maingraphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|solutionrelative:testlivinparis\\maingraphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testlivinparis\\cuisinier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|solutionrelative:testlivinparis\\cuisinier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testlivinparis\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|solutionrelative:testlivinparis\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testlivinparis\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|solutionrelative:testlivinparis\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testlivinparis\\utilisateurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|solutionrelative:testlivinparis\\utilisateurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|c:\\users\\inufy\\downloads\\testlivinparis (2)\\backup\\testlivinparis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645138AC-B73F-4503-BF11-6246B8945E3A}|TESTLivINParis\\TESTLivINParis.csproj|solutionrelative:testlivinparis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TestUnitaire\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestUnitaire\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TestUnitaire\\UnitTest1.cs",
+              "RelativeToolTip": "TestUnitaire\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistiques.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Statistiques.cs",
+              "RelativeDocumentMoniker": "TESTLivINParis\\Statistiques.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Statistiques.cs",
+              "RelativeToolTip": "TESTLivINParis\\Statistiques.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graphe.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Graphe.cs",
+              "RelativeDocumentMoniker": "TESTLivINParis\\Graphe.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Graphe.cs",
+              "RelativeToolTip": "TESTLivINParis\\Graphe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainGraphe.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\MainGraphe.cs",
+              "RelativeDocumentMoniker": "TESTLivINParis\\MainGraphe.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\MainGraphe.cs",
+              "RelativeToolTip": "TESTLivINParis\\MainGraphe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuisinier.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Cuisinier.cs",
+              "RelativeDocumentMoniker": "TESTLivINParis\\Cuisinier.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Cuisinier.cs",
+              "RelativeToolTip": "TESTLivINParis\\Cuisinier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Client.cs",
+              "RelativeDocumentMoniker": "TESTLivINParis\\Client.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Client.cs",
+              "RelativeToolTip": "TESTLivINParis\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Admin.cs",
+              "RelativeDocumentMoniker": "TESTLivINParis\\Admin.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Admin.cs",
+              "RelativeToolTip": "TESTLivINParis\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utilisateurs.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Utilisateurs.cs",
+              "RelativeDocumentMoniker": "TESTLivINParis\\Utilisateurs.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Utilisateurs.cs",
+              "RelativeToolTip": "TESTLivINParis\\Utilisateurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Program.cs",
+              "RelativeDocumentMoniker": "TESTLivINParis\\Program.cs",
+              "ToolTip": "C:\\Users\\inufy\\Downloads\\TESTLivINParis (2)\\BACKUP\\TESTLivINParis\\Program.cs",
+              "RelativeToolTip": "TESTLivINParis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:45:37.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
